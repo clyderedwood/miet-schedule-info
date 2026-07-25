@@ -5,6 +5,7 @@
 > Это репозиторий-документация: здесь нет исходного кода, только текст и описание того, как всё устроено.
 
 > Проект и этот README ещё в процессе — часть разделов пока не заполнена.
+
 🌐 Сайт: [miet-schedule.clyderedwood.com](https://miet-schedule.clyderedwood.com)
 
 🤖 Бот: [@miet_schedule_clyderedwood_bot](https://t.me/miet_schedule_clyderedwood_bot)
