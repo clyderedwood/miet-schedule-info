@@ -62,4 +62,4 @@ Offline-режим не гарантирует доступ к поиску, API
 
 ---
 
-[Документация](index.md) · [Сценарии](user-guide.md) · [PWA](pwa.md) · [Telegram](telegram.md) · [API](api.md) · [Примеры API](api-examples.md) · [Ресурсы](resources.md)
+[Документация](README.md) · [Сценарии](user-guide.md) · [PWA](pwa.md) · [Telegram](telegram.md) · [API](api.md) · [Примеры API](api-examples.md) · [Ресурсы](resources.md)

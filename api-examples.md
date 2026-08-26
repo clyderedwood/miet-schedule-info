@@ -240,4 +240,4 @@ If-None-Match: "<ETAG>"
 
 ---
 
-[Документация](index.md) · [Сценарии](user-guide.md) · [PWA](pwa.md) · [Telegram](telegram.md) · [API](api.md) · [Примеры API](api-examples.md) · [Ресурсы](resources.md)
+[Документация](README.md) · [Сценарии](user-guide.md) · [PWA](pwa.md) · [Telegram](telegram.md) · [API](api.md) · [Примеры API](api-examples.md) · [Ресурсы](resources.md)
